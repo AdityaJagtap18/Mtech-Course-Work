@@ -1,0 +1,2 @@
+nvcc -O2 -o mat_mul mat_mul.cu -lm
+./mat_mul
